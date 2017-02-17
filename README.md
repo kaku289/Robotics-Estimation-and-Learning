@@ -1,7 +1,7 @@
 # Robotics-Estimation-and-Learning
 Coursera MOOC on  Robotics: Estimation and Learning
 
-This repository contains the MATLAB code corresponding to different projects belonging to the online course on Robotics: Estimation and Learning.
+This repository contains the MATLAB code corresponding to different projects completed during the course on Robotics: Estimation and Learning.
 
 ###1. Learning, Detection and Tracking
 A multivariate Gaussian model is learned to detect a yellow ball and a Kalman filter is implemented to track the ball in 2D space. [Video of the result][ref1]
